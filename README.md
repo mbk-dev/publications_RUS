@@ -1,5 +1,5 @@
 # Статьи проекта [Рост сбережений](https://rostsber.ru/)  
-1. [howto](https://github.com/mbk-dev/publications_RUS/blob/main/01%20howto.ipynb) 
+1. [howto](https://github.com/mbk-dev/publications_RUS/blob/main/01%20howto.ipynb)  
 Основные команды библиотеки _okama_ (Список актиов, портфель)
 2. [Базовая валюта инвестиционного портфеля](https://github.com/mbk-dev/publications_RUS/blob/main/02%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D1%8F.ipynb)  
 Зависимость распределения активов в портфеля и его характеристик от выбора базовой валюты (USD, EUR или RUB).
