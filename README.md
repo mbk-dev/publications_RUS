@@ -11,3 +11,6 @@
 Изучение характеристик типовых инвестиционных портфелей во время глобальных финансовых кризисов: Черный понедельник (1987), Кризис Доткомов (2000), Ипотечный кризис США (2008)
 6. [inflation_and_key_rate](https://github.com/mbk-dev/publications_RUS/blob/main/06%20inflation_and_key_rate.ipynb "06 inflation_and_key_rate.ipynb")  
 Построение графика инфляции и ключевой ставки ЦБ России.
+7. [metals](https://github.com/mbk-dev/publications_RUS/blob/main/07%20metals.ipynb)  
+"шпаргалка" по тикерам драгоценных металлов и промышленных металлов, доступных в базе данных в виде спотовых цен или в виде ETF.
+
