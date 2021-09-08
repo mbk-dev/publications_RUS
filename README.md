@@ -13,6 +13,6 @@
 Построение графика инфляции и ключевой ставки ЦБ России.
 7. [metals](https://github.com/mbk-dev/publications_RUS/blob/main/07%20metals.ipynb)  
 "шпаргалка" по тикерам драгоценных металлов и промышленных металлов, доступных в базе данных в виде спотовых цен или в виде ETF.
-8. [gold_vs_stocks](https://github.com/mbk-dev/publications_RUS/blob/main/08%20gold_vs_stocks.ipynb)
+8. [gold_vs_stocks](https://github.com/mbk-dev/publications_RUS/blob/main/08%20gold_vs_stocks.ipynb)  
 Корреляция золота и акций (США и РФ)
 
