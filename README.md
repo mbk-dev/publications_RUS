@@ -15,9 +15,9 @@
 "шпаргалка" по тикерам драгоценных металлов и промышленных металлов, доступных в базе данных в виде спотовых цен или в виде ETF.
 8. [gold_vs_stocks](https://github.com/mbk-dev/publications_RUS/blob/main/08%20gold_vs_stocks.ipynb)  
 Корреляция золота и акций (США и РФ)
-9. [Обзор индексных фондов российских акций 2021](https://github.com/mbk-dev/publications_RUS/blob/main/09%20compare_moex_etf.ipynb)
+9. [Обзор индексных фондов российских акций 2021](https://github.com/mbk-dev/publications_RUS/blob/main/09%20compare_moex_etf.ipynb)  
 Сравнение индексных фондов (ОПИФ, БПИФ и ETF) российских акций в 2021 году
-10. [Индексные фонды американских акций на Мосбирже](https://github.com/mbk-dev/publications_RUS/blob/main/10%20us%20stocks%20moex.ipynb)
+10. [Индексные фонды американских акций на Мосбирже](https://github.com/mbk-dev/publications_RUS/blob/main/10%20us%20stocks%20moex.ipynb)  
 Сравнение индексных БПИФ и ETF, которые следуют индексу S&P 500 и аналогичным.
 
 
