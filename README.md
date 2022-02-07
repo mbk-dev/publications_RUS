@@ -19,7 +19,7 @@
 Сравнение индексных фондов (ОПИФ, БПИФ и ETF) российских акций в 2021 году
 10. [Индексные фонды американских акций на Мосбирже](https://github.com/mbk-dev/publications_RUS/blob/main/10%20us%20stocks%20moex.ipynb)  
 Сравнение индексных БПИФ и ETF, которые следуют индексу S&P 500 и аналогичным.
-11. [Сравнение доходности активов за 2021 год](https://github.com/mbk-dev/publications_RUS/blob/main/11%20compare_CAGR_of_assets.ipynb.ipynb)  
+11. [Сравнение доходности активов за 2021 год](https://github.com/mbk-dev/publications_RUS/blob/main/11%20compare_CAGR_of_assets.ipynb)  
 Расчет доходности риска и доходности популярных видов инвестиций за 2021 год и на промежутках 5-15 лет.
-12. [Столбчатая диаграммы дивидендной доходности для индексов MOEX и S&P500](https://github.com/mbk-dev/publications_RUS/blob/main/12%2012_dividend_yield_for_MOEX_and_SP500.ipynb)  
+12. [Столбчатая диаграммы дивидендной доходности для индексов MOEX и S&P500](https://github.com/mbk-dev/publications_RUS/blob/main/12%20dividend_yield_for_MOEX_and_SP500.ipynb)  
 Расчет дивидендной доходности для индексов полной доходности и рисование столбчатой диаграммы ценовой и дивидендной доходностей.
